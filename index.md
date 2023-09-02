@@ -11,3 +11,7 @@
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/
 ```
+
+- [x] Turn on GitHub Pages
+- [x] Have done my tasks
+- [ ] I want to sleep
